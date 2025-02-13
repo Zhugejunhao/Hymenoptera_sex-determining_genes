@@ -31,8 +31,7 @@ Tpre: Trichogramma pretiosum
 Wpum: Wlebesia pumilae  
 
 Contents included in each gz file：  
-assembly: rna-seq assembly gtf file  
-sequence:  
+rna-seq assembly gtf file    
 gff  
 cds.fa  
 pep.fa  
